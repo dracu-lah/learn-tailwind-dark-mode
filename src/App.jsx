@@ -3,7 +3,7 @@ import Switcher from "./Components/Switcher";
 
 function App() {
   return (
-    <div className="h-screen dark:bg-sky-900 ">
+    <div className="h-screen dark:bg-slate-800 flex justify-center items-center">
       <Switcher />
     </div>
   );
