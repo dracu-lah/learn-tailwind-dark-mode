@@ -1,10 +1,12 @@
 import React from "react";
+import Switcher from "./Components/Switcher";
 
-export default function App() {
+function App() {
   return (
-    <div>
-      App
-      <h1 className="text-3xl font-bold underline text-center">Hello world!</h1>{" "}
+    <div className="h-screen dark:bg-sky-900 ">
+      <Switcher />
     </div>
   );
 }
+
+export default App;
