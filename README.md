@@ -1,3 +1,3 @@
 # learn-tailwind-dark-mode
 
-Learning darkmode
+Learning darkmode with component
